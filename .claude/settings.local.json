@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.anthropic.com)",
+      "WebFetch(domain:platform.openai.com)",
+      "WebFetch(domain:ai.google.dev)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:docs.mistral.ai)",
+      "WebFetch(domain:docs.cohere.com)",
+      "Bash(npm test)",
+      "Bash(npm test -- --run)",
+      "Bash(git stash)",
+      "Bash(cmd.exe /c dir \"b:\\\\Universal-AI-Protocol-Bridge\\\\\")",
+      "Bash(npx vitest run)"
+    ]
+  }
+}
